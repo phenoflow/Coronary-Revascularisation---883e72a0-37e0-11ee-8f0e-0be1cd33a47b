@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/coronary-revascularisation-operation---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-revascularisation-allograft---primary.py
+inputModule4:
+  class: File
+  path: python/coronary-revascularisation-autograft---primary.py
+inputModule5:
+  class: File
+  path: python/prosthetic-coronary-revascularisation---primary.py
+inputModule6:
+  class: File
+  path: python/diagnostic-coronary-revascularisation---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-revascularisation-revision---primary.py
+inputModule8:
+  class: File
+  path: python/coronary-revascularisation-mammary---primary.py
+inputModule9:
+  class: File
+  path: python/thoracic-coronary-revascularisation---primary.py
+inputModule10:
+  class: File
+  path: python/coronary-revascularisation-specified---primary.py
+inputModule11:
+  class: File
+  path: python/coronary-revascularisation-angio---primary.py
+inputModule12:
+  class: File
+  path: python/therapeutic-coronary-revascularisation---primary.py
+inputModule13:
+  class: File
+  path: python/coronary-revascularisation-translum---primary.py
+inputModule14:
+  class: File
+  path: python/coronary-revascularisation-repair---primary.py
+inputModule15:
+  class: File
+  path: python/coronary-revascularisation-connection---primary.py
+inputModule16:
+  class: File
+  path: python/coronary-revascularisation-replacement---primary.py
+inputModule17:
+  class: File
+  path: python/coronary-revascularisation-bypass---primary.py
+inputModule18:
+  class: File
+  path: python/coronary-revascularisation-insert---primary.py
+inputModule19:
+  class: File
+  path: python/percutaneous-coronary-revascularisation---primary.py
+inputModule20:
+  class: File
+  path: python/coronary-revascularisation-three---primary.py
+inputModule21:
+  class: File
+  path: python/coronary-revascularisation-implant---primary.py
+inputModule22:
+  class: File
+  path: python/double-coronary-revascularisation---primary.py
+inputModule23:
+  class: File
+  path: python/sequential-coronary-revascularisation---primary.py
+inputModule24:
+  class: File
+  path: python/single-coronary-revascularisation---primary.py
+inputModule25:
+  class: File
+  path: python/coronary-revascularisation-artery---primary.py
+inputModule26:
+  class: File
+  path: python/coronary-revascularisation-streptokinase---primary.py
+inputModule27:
+  class: File
+  path: python/other-coronary-revascularisation---primary.py
+inputModule28:
+  class: File
+  path: python/coronary-revascularisation-vpresence---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
